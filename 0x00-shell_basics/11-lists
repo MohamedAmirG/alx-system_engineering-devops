@@ -1,2 +1,2 @@
 #!/bin/bash
-eval "ls -la . ; ls -la.. ; cd /boot"
+ls -la /0x01-shell_basics ls -la .. cd /boot
